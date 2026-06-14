@@ -284,7 +284,7 @@ Real-time seismic activity detection system using Arduino Uno and ADXL335 accele
 │  RTL Design             │  Stakeholder Comm.      │  Community      │
 │  Hardware Interfacing   │  Project Coordination   │  Copywriting    │
 │  Sensor Systems         │  Technical Documentation│  Public Rel.    │
-└──────────────────────────────────────────────────────────────────────┘
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
