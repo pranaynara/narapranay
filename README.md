@@ -336,7 +336,7 @@ Low-cost real-time seismic detection system using Arduino Uno and ADXL335 accele
 >
 > All IEEE and SAC leadership roles concluded as of June 2026 upon completion of B.Tech — Electronics & Communication Engineering at Vignana Bharathi Institute of Technology, Hyderabad.
 >
-> Open to opportunities in **Embedded Systems · VLSI Design · Technical Administration · Project Coordination · AI/ML Applications**.
+> Open to opportunities in **Embedded Systems · VLSI Design · Internet Of Things · RTL Design· PCB Design**.
 
 ---
 
